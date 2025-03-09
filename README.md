@@ -28,11 +28,6 @@ This project is a **CLI-based text sorting system** that categorizes research pa
    venv\Scripts\activate     # On Windows
    ```
 
-3. **Install Dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 4. **Download the Pretrained BERTopic Model:**
    Ensure the trained BERTopic model is saved in `my_model_dir`.
 
