@@ -2,6 +2,8 @@
 
 This project is a **CLI-based text sorting system** that categorizes research papers based on their abstracts using **BERTopic**. The system automatically detects the topic of an unseen text file, creates a corresponding folder if it doesn't exist, and moves the file into the appropriate category.
 
+Dataset link: https://huggingface.co/datasets/gfissore/arxiv-abstracts-2021
+
 ## Features
 - Uses **BERTopic** for topic modeling
 - Automatically creates topic-based folders
